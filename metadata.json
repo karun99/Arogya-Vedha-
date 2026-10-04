@@ -1,0 +1,9 @@
+{
+  "name": "Aarogya-Vedha",
+  "description": "An indigenous AI healthcare ecosystem featuring holistic diagnostics, nutritional wisdom, and pharmacological insights powered by Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
