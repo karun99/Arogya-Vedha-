@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "aarogya-vedha": {
+      "command": "node",
+      "args": [
+        "mcp-server/server.mjs"
+      ]
+    }
+  }
+}
